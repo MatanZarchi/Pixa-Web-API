@@ -6,11 +6,7 @@
 
 <h3 align="center">Show video here: </h3>
 
-<video width="320" height="240" controls>
-  <source src="C:\Users\matan\OneDrive\שולחן העבודה\Learning\FULLSTACK\JS_OOP\searchEngine" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video> 
+
 
 ***
 
