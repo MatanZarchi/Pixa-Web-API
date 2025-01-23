@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="he">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+    <link rel="stylesheet" href="css/pixa_api.css">
+    <link rel="stylesheet" href="css/tasks.css">
+    <script src="js/tasks_app.js" defer></script>
+    <script src="js/tasksClass.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <a href="home.html" id="home_nav_a">Home</a>
+                <a href="https://pixabay.com/" target="_blank">Pixa</a>
+                <a href="search.html">Search</a>
+                <a href="videos.html">Videos</a>
+                <a href="favorites.html">Favorites</a>
+                <a href="tasks.html">Tasks</a>
+                <a href="photographer.html">Photographers</a>
+                <a href="aboutUs.html">About Us</a>
+            </nav>
+        </div>
+    </header>
+
+    <main id="tasks_main">
+
+        <div class="tasks_container">
+            <label id="name_lable">Enter task name:</label>
+            <input id="name_input" type="text" required>
+            <br>
+            <br>
+            <label id="time_label">Enter task time:</label>
+            <input id="time_input" type="text" required>
+            <br>
+            <br>
+            <button id="add_btn">Add</button>
+            <button id="reset_btn">Reset</button>
+            <h4>Tasks:</h4>
+
+            <div class="table_container">
+                <table id="table">
+                    
+                </table>
+            </div>
+        </div>
+
+    </main>
+
+</body>
+
+</html>
