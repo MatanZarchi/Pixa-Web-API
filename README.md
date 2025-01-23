@@ -2,7 +2,7 @@
 
 <h1 align="center"> 3Demo PIXA WEB WITH API 🖼️📷</h1>
 
-<h2 align="center">Demo Media Search Engine by JavaScript, Bootstrap, Html & CSS </h2>
+<h2 align="center">-Demo Media Search Engine by JavaScript, Bootstrap, Html & CSS-</h2>
 
 <h3 align="center">To see video download this link: </h3>
 
