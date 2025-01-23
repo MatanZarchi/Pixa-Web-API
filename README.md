@@ -4,7 +4,10 @@
 
 <h2 align="center">Demo Media Search Engine by JavaScript, Bootstrap, Html & CSS </h2>
 
-<h3 align="center">Show video here: </h3>
+<h3 align="center">To see videos (2 options - choose 1): </h3>
+
+<h2 align="center">1) Go to PIXA API WEB.mp4 in the proj files and click "view raw" to download the video</h2>
+<h2 align="center">2) Put this https://github.com/MatanZarchi/Pixa-Web-API/raw/refs/heads/main/PIXA%20API%20WEB.mp4 in URL and download</h2>
 
 
 
