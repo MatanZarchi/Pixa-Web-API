@@ -4,9 +4,9 @@
 
 <h2 align="center">Demo Media Search Engine by JavaScript, Bootstrap, Html & CSS </h2>
 
-<h3 align="center">To see video: </h3>
+<h3 align="center">To see video download this link: </h3>
 
-<h2 align="center">Download: https://github.com/MatanZarchi/Pixa-Web-API/raw/refs/heads/main/PIXA%20API%20WEB.mp4</h2>
+<h2 align="center">https://github.com/MatanZarchi/Pixa-Web-API/raw/refs/heads/main/PIXA%20API%20WEB.mp4</h2>
 
 
 
