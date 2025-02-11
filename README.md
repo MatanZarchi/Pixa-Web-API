@@ -1,6 +1,6 @@
 ***
 
-<h1 align="center"> 3Demo PIXA WEB WITH API 🖼️📷</h1>
+<h1 align="center"> Demo PIXA WEB WITH API 🖼️📷</h1>
 
 <h2 align="center">- Demo Media Search Engine by JavaScript, Bootstrap, Html & CSS -</h2>
 
@@ -15,7 +15,7 @@
 
 ## ⚒️ Features
 
-- **This app illustrating an 3D Room with user control**
+- **This app illustrating a media search app with API & user control**
 - Search any type of MEDIA around the world by the best photographers
 - See all the original media in Pixa site side by side
 - See All the info API in Localstorage/ Console
